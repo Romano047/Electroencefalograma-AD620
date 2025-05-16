@@ -482,7 +482,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../Trazado/Fuente_EEG_2/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

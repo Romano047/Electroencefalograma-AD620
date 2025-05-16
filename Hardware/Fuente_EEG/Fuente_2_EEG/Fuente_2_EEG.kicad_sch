@@ -4329,7 +4329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
+		(property "Footprint" "EESTN5:CAP_ELEC_8x11.5mm"
 			(at 207.9752 87.63 0)
 			(effects
 				(font
@@ -4866,7 +4866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
+		(property "Footprint" "EESTN5:CAP_ELEC_8x11.5mm"
 			(at 152.0952 119.38 0)
 			(effects
 				(font
@@ -5544,7 +5544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
+		(property "Footprint" "EESTN5:CAP_ELEC_8x11.5mm"
 			(at 225.7552 82.55 0)
 			(effects
 				(font
@@ -5945,7 +5945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
+		(property "Footprint" "EESTN5:CAP_ELEC_8x11.5mm"
 			(at 152.0952 86.36 0)
 			(effects
 				(font
@@ -6014,7 +6014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
+		(property "Footprint" "EESTN5:CAP_ELEC_8x11.5mm"
 			(at 107.6452 119.38 0)
 			(effects
 				(font
@@ -6891,7 +6891,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
+		(property "Footprint" "EESTN5:CAP_ELEC_8x11.5mm"
 			(at 107.6452 86.36 0)
 			(effects
 				(font
@@ -6959,7 +6959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "EESTN5:DIP-8"
 			(at 196.85 83.82 0)
 			(effects
 				(font
