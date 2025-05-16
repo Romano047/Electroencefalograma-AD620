@@ -4043,7 +4043,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:R_0805"
+		(property "Footprint" "EESTN5:RES0.3"
 			(at 186.69 63.5 0)
 			(effects
 				(font
@@ -4856,7 +4856,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:R_0805"
+		(property "Footprint" "EESTN5:RES0.3"
 			(at 97.79 99.06 0)
 			(effects
 				(font
@@ -5408,7 +5408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:R_0805"
+		(property "Footprint" "EESTN5:RES0.3"
 			(at 118.11 104.14 0)
 			(effects
 				(font
@@ -5607,7 +5607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EESTN5:R_0805"
+		(property "Footprint" "EESTN5:RES0.3"
 			(at 191.77 58.42 0)
 			(effects
 				(font
