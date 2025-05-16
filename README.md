@@ -18,6 +18,7 @@ Proyecto objetivamente orientado a la investigación y el desarrollo con fines e
 
 # Guía de Repositorio
 - Software: En ella se encontrarán los archivos correspondientes a la programación del proyecto.
+
 - Hardwre: Diseño de Módulos PCBs y huellas utilizadas en el proyecto.
   - Fuente_EEG: Fuente optativa del proyecto diseñada para componentes SMD y menores exigencias de Corriete por parte del MicroControlador.
   - Fuente_EEG_2: Fuente empleada en el proyecto adaptada al uso de ServoMotores como Output.
@@ -27,6 +28,10 @@ Proyecto objetivamente orientado a la investigación y el desarrollo con fines e
     - E.E.S.T. n°5: Huellas diseñadas por alumnos de la escuela correspondiente.
     - MacroLib: Carpeta diseñada por el profesor Máximiliano Andrés Barzola.
     - Romano: Carpeta diseñada por el creador de este repositorio.
+
 - 3D: Archivos correspondientes a los diseños 3D del proyecto (Diseño de prótesis y soportes de PCBs)
+
+
+
 
 v1.0 - 15 de Mayo 2025
