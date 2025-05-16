@@ -1,7 +1,10 @@
 # Prótesis Electroencefalograma AD620
 Electroencefalograma-AD620 Realizado en la Escuela de Educación Secundaria Técnica N°5 "2 de Abril" Temperley, Buenos Aires, Argentina. 
+
 Desarrollado por Iván Romano, 7mo 6ta, 2025
+
 *Proyecto actualmente en desarrollo.*
+
 Actualizaciones constantes hasta su finalización.
 
 Proyecto objetivamente orientado a la investigación y el desarrollo con fines educativos de las señales emitidas por el cerebro e implementarlas en una prótesis de brazo.
