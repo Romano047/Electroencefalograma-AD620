@@ -36,4 +36,4 @@ Proyecto objetivamente orientado a la investigación y el desarrollo con fines e
 
 
 
-v1.0 - 15 de Mayo 2025
+v1.0_Alpha - 15 de Mayo 2025
