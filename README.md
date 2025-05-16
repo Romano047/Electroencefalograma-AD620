@@ -24,7 +24,7 @@ Proyecto objetivamente orientado a la investigación y el desarrollo con fines e
     - Fuente_EEG: Fuente optativa del proyecto diseñada para componentes SMD y menores exigencias de Corriete por parte del MicroControlador.
     - Fuente_EEG_2: Fuente empleada en el proyecto adaptada al uso de ServoMotores como Output.
   - Amplificador_EEG
-    -Amplificador_EEG_Master: Amplificador Master (Contiene al LM358) 
+    - Amplificador_EEG_Master: Amplificador Master (Contiene al LM358) 
   - MicroControlador_EEG: MicroControlador embebido, procesamiento de la señal y respuesta de Output.
   - Huellas y Footprints Externos
     - E.E.S.T. n°5: Huellas diseñadas por alumnos de la escuela correspondiente.
