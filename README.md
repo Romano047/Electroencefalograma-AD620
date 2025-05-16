@@ -7,11 +7,11 @@ Actualizaciones constantes hasta su finalización.
 Proyecto objetivamente orientado a la investigación y el desarrollo con fines educativos de las señales emitidas por el cerebro e implementarlas en una prótesis de brazo.
 
 # Material y softare utilizados
-Desarrollo de PCB: KiCad 8.0 
-Software: VsCode PlatformIO
-Amplificador: AD620an
-MicroControlador: ESP-WROOM-32
-ServoMotores: SG90
+- Desarrollo de PCB: KiCad 8.0 
+- Software: VsCode PlatformIO
+- Amplificador: AD620an
+- MicroControlador: ESP-WROOM-32
+- ServoMotores: SG90
 
 # Guía de Repositorio
 - Software: En ella se encontrarán los archivos correspondientes a la programación del proyecto.
