@@ -7,6 +7,9 @@ Desarrollado por Iván Romano, 7mo 6ta, 2025
 
 Actualizaciones constantes hasta su finalización.
 
+Diseño de Hardware Finalizado y presente en el repositorio. 
+
+
 Proyecto objetivamente orientado a la investigación y el desarrollo con fines educativos de las señales emitidas por el cerebro e implementarlas en una prótesis de brazo.
 
 # Material y softare utilizados
@@ -26,14 +29,11 @@ Proyecto objetivamente orientado a la investigación y el desarrollo con fines e
   - Amplificador_EEG
     - Amplificador_EEG_Master: Amplificador Master (Contiene al LM358) 
   - MicroControlador_EEG: MicroControlador embebido, procesamiento de la señal y respuesta de Output.
-  - Huellas y Footprints Externos
-    - E.E.S.T. n°5: Huellas diseñadas por alumnos de la escuela correspondiente.
-    - MacroLib: Carpeta diseñada por el profesor Máximiliano Andrés Barzola.
-    - Romano: Carpeta diseñada por el creador de este repositorio.
+  - Trazado: En esta carpeta se encontrará el trazado empleado para la fabricación manual de las PCBs.
 
 - 3D: Archivos correspondientes a los diseños 3D del proyecto (Diseño de prótesis y soportes de PCBs)
 
 
 
 
-v1.0_Alpha - 15 de Mayo 2025
+v1.5_Alpha - 16 de Mayo 2025
