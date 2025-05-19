@@ -3,6 +3,8 @@ Electroencefalograma-AD620 Realizado en la Escuela de Educación Secundaria Téc
 
 Desarrollado por Iván Romano, 7mo 6ta, 2025
 
+Proyecto realizado en "Proyecto y Diseño Electrónico" a cargo del Prof. Martín Leguizamón. 
+
 *Proyecto actualmente en desarrollo.*
 
 Actualizaciones constantes hasta su finalización.
@@ -23,17 +25,28 @@ Proyecto objetivamente orientado a la investigación y el desarrollo con fines e
 - Software: En ella se encontrarán los archivos correspondientes a la programación del proyecto.
 
 - Hardwre: Diseño de Módulos PCBs y huellas utilizadas en el proyecto.
+
   - Fuente_EEG
     - Fuente_EEG: Fuente optativa del proyecto diseñada para componentes SMD y menores exigencias de Corriete por parte del MicroControlador.
     - Fuente_EEG_2: Fuente empleada en el proyecto adaptada al uso de ServoMotores como Output.
+
   - Amplificador_EEG
     - Amplificador_EEG_Master: Amplificador Master (Contiene al LM358) 
+
   - MicroControlador_EEG: MicroControlador embebido, procesamiento de la señal y respuesta de Output.
+
   - Trazado: En esta carpeta se encontrará el trazado empleado para la fabricación manual de las PCBs.
+ 
+  - Librerías externas empleadas:
+    - E.E.S.T. n°5 , Prof. Mariano Bustos y alumnos del industrial de Temperley.
+    - MacroLib , Prof. Maximiliano Andrés Barzola.
+    - Logo R , huellas y logos creados por el director de este repositorio.
 
-- 3D: Archivos correspondientes a los diseños 3D del proyecto (Diseño de prótesis y soportes de PCBs)
+- 3D: Archivos correspondientes a los diseños 3D del proyecto (Diseño de prótesis y soportes de PCBs).
 
 
 
 
-v1.5_Alpha - 16 de Mayo 2025
+v1.6_Alpha - 18 de Mayo 2025
+
+Ultima Actualización: Corrección de dimensiones de componentes de PCBs.
