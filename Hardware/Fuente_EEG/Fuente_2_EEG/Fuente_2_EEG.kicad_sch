@@ -4329,7 +4329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_ELEC_8x11.5mm"
+		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
 			(at 207.9752 87.63 0)
 			(effects
 				(font
