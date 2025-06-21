@@ -1,4 +1,4 @@
-#Observaciones
+# Observaciones
 
 Refiriendose a su amplificador, ha demostrado resultados positivos. Amplifica de forma precisa señales hasta 50mV. Sin embargo, el objetivo del EEG es el de amplificar señales 
 de hasta 50uV. Es por ello que las próximas versiones se enfocarán en aumentar sus valores de amplificación permitida acompañandolo junto a diversos elementos de protexión contra todo
