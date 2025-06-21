@@ -27,13 +27,12 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 - Hardwre: Diseño de Módulos PCBs y huellas utilizadas en el proyecto.
 
   - Fuente_EEG
-    - Fuente_EEG: Fuente optativa del proyecto diseñada para componentes SMD y menores exigencias de Corriete por parte del MicroControlador.
-    - Fuente_EEG_2: Fuente empleada en el proyecto adaptada al uso de ServoMotores como Output.
+    - Fuente empleada en el proyecto adaptada al uso de ServoMotores como Output.
 
   - Amplificador_EEG
-    - Amplificador_EEG_Master: Amplificador Master (Contiene al LM358) 
+    - Ampificador Empleado en el proyecto.
 
-  - MicroControlador_EEG: MicroControlador embebido, procesamiento de la señal y respuesta de Output.
+  - MicroControlador_EEG: En desarrollo (Versión preeliminar en Alpha).
 
   - Trazado: En esta carpeta se encontrará el trazado empleado para la fabricación manual de las PCBs.
  
@@ -47,6 +46,9 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 
 
 
-v1.6_Alpha - 18 de Mayo 2025
+v2.0_Beta - 20 Junio 2025
 
-Ultima Actualización: Corrección de dimensiones de componentes de PCBs.
+Ultima Actualización: 
+
+- Creación de ramas Alpha y Beta correspondientes a las divereas fases de desarrollo del proyecto.
+- Actualización de PCBs empleadas actualmente (Correspondientes a la rama Beta). 
