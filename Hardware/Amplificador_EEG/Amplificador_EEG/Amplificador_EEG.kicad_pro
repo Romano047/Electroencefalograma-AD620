@@ -447,7 +447,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Fuente_EEG.kicad_pro",
+    "filename": "Amplificador_EEG.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -592,7 +592,7 @@
   },
   "sheets": [
     [
-      "bb757958-27e9-4f48-b3d5-d3c2c94655d5",
+      "141ddca8-9f7a-462f-b9ed-747d728ae61d",
       "Raíz"
     ]
   ],
