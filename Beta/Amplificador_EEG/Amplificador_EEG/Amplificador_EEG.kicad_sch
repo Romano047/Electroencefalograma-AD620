@@ -5387,7 +5387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:R_0805"
+		(property "Footprint" "EESTN5:R_1206"
 			(at 193.04 40.64 0)
 			(effects
 				(font
@@ -9813,7 +9813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EESTN5:CAP_0.2"
+		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
 			(at 112.7252 85.09 0)
 			(effects
 				(font
