@@ -44,11 +44,10 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 - 3D: Archivos correspondientes a los diseños 3D del proyecto (Diseño de prótesis y soportes de PCBs).
 
 
+Última Actualización:
+
+- Rama Beta con trazados actualizados vigentes en el proyecto (Próximos a fabricar).
+- Actualización vigente de la carpeta Hardware de la rama principal.
 
 
-v2.0_Beta - 20 Junio 2025
-
-Ultima Actualización: 
-
-- Creación de ramas Alpha y Beta correspondientes a las divereas fases de desarrollo del proyecto.
-- Actualización de PCBs empleadas actualmente (Correspondientes a la rama Beta). 
+v2.2_Beta - 26 Junio 2025
