@@ -145,9 +145,10 @@
 			)
 		)
 		(property "Value" "1k"
-			(at -0.125 3.625 90)
+			(at -0.125 3.135 90)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1ad39bbf-e26e-469e-bf12-69a2750339dc")
 			(effects
 				(font
@@ -3380,7 +3381,7 @@
 			)
 		)
 		(property "Value" "4700n"
-			(at 0 4.2 360)
+			(at 0 4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "2b178269-e33f-49ee-83be-93249df3dc5c")
@@ -3392,7 +3393,7 @@
 			)
 		)
 		(property "Footprint" "EESTN5:CAP_ELEC_5x11mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "821fcb46-597b-4cc8-8c64-ead70d681fd3")
@@ -3404,7 +3405,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5cff5549-19a3-4957-9951-6172bb12dd15")
@@ -3416,7 +3417,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e0cdc83-ca3e-4eab-92ea-faaa308981a5")
@@ -7552,13 +7553,13 @@
 		(at 177.075 82.222 90)
 		(descr "SMT resistor, 1206")
 		(property "Reference" "R2"
-			(at -7 0 90)
+			(at -0.003 -1.65 90)
 			(layer "B.SilkS")
 			(uuid "19c5c714-efca-474a-83c5-ddb24a044310")
 			(effects
 				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
+					(size 0.7 0.7)
+					(thickness 0.175)
 				)
 				(justify mirror)
 			)
