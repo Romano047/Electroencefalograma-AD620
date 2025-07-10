@@ -46,8 +46,7 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 
 # Última Actualización
 
-- Rama Beta con trazados actualizados vigentes en el proyecto (Próximos a fabricar).
-- Actualización vigente de la carpeta Hardware de la rama principal.
+- Actualización de dimensiones y Footprints del Amplificador (Cámbios observables en Hardware o la rama Beta).
 
 
-v2.2_Beta - 26 Junio 2025
+v2.3_Beta - 9 Julio 2025
