@@ -17,9 +17,10 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 # Material y softare utilizados
 - Desarrollo de PCB: KiCad 8.0 
 - Software: VsCode PlatformIO
-- Amplificador: AD620an
+- Simulador: MicroCap12
+- Amplificadores : AD620an - LM358
 - MicroControlador: ESP-WROOM-32
-- ServoMotores: SG90
+- ServoMotores: (A definir en v4.0)
 
 # Guía de Repositorio
 - Software: En ella se encontrarán los archivos correspondientes a la programación del proyecto.
@@ -35,6 +36,8 @@ Diseño de Hardware Finalizado y presente en el repositorio.
   - MicroControlador_EEG: En desarrollo (Versión preeliminar en Alpha).
 
   - Trazado: En esta carpeta se encontrará el trazado empleado para la fabricación manual de las PCBs.
+
+  - Simulación: Esquemático principal del proyecto simulado mediante el software de MicroCap.
  
   - Librerías externas empleadas:
     - E.E.S.T. n°5 , Prof. Mariano Bustos y alumnos del industrial de Temperley.
@@ -46,7 +49,12 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 
 # Última Actualización
 
-- Actualización de dimensiones y Footprints del Amplificador (Cámbios observables en Hardware o la rama Beta).
+- Actualización fuente del proyecto. Lógica de fuente partida.
+- Optimización y corrección de dimensiones en el amplificador.
+- Agregado de sistema "Driven Right Leg" (DRL) incluída en el amplificador.
+- Carpeta "Simulación".
+
+Cámbios observables en rama "main" y "Alpha".
 
 
-v2.3_Beta - 9 Julio 2025
+v3.0 - 19 Agosto 2025
