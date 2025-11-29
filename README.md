@@ -42,6 +42,7 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 - 3D: Archivos correspondientes a los diseños 3D del proyecto (Soportes de PCBs).
 - Informe: Informe detallado del proyecto, principios de funcionamiento, desarollo y conclusiones obtenidas, Archivo Diagrama de Gantt.
 - Manual de Usuario.
+- Funcionamiento: Fotos y videos de los resultados prácticos obtenidos. 
 
 
 # Última Actualización
@@ -49,6 +50,7 @@ Diseño de Hardware Finalizado y presente en el repositorio.
 - Conclusión escolar del proyecto (20 de Nov de 2025).
 - Informe final del proyecto.
 - Manual de ususario.
+- Resultados de funcionamiento.
 
 Cámbios observables en rama "main".
 
