@@ -40,6 +40,8 @@ Diseño de Hardware Finalizado y presente en el repositorio.
     - Logo R , huellas y logos creados por el director de este repositorio.
 
 - 3D: Archivos correspondientes a los diseños 3D del proyecto (Soportes de PCBs).
+- Informe: Informe detallado del proyecto, principios de funcionamiento, desarollo y conclusiones obtenidas.
+- Manual de Usuario.
 
 
 # Última Actualización
