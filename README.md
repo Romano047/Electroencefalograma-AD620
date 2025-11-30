@@ -7,33 +7,28 @@ Desarrollado por Iván Romano, 7mo 6ta, 2025.
 
 Realizado en "Proyecto y Diseño Electrónico" a cargo del Prof. Martín Leguizamón. 
 
-*Proyecto actualmente en desarrollo.*
+*PROYECTO ESCOLAR CONCLUIDO.*
 
-Actualizaciones constantes hasta su finalización.
+Este repositorio será actualizado en caso de investigaciones futuras.
 
 Diseño de Hardware Finalizado y presente en el repositorio. 
 
 
 # Material y softare utilizados
 - Desarrollo de PCB: KiCad 8.0 
-- Software: VsCode PlatformIO
 - Simulador: MicroCap12
 - Amplificadores : AD620an - LM358
-- MicroControlador: ESP-WROOM-32
-- ServoMotores: (A definir en v4.0)
 
 # Guía de Repositorio
-- Software: En ella se encontrarán los archivos correspondientes a la programación del proyecto.
-
 - Hardwre: Diseño de Módulos PCBs y huellas utilizadas en el proyecto.
 
   - Fuente_EEG
-    - Fuente empleada en el proyecto adaptada al uso de ServoMotores como Output.
+    - Fuente empleada en el proyecto adaptada al uso de ServoMotores como Output (DESCARTADO).
 
   - Amplificador_EEG
     - Ampificador Empleado en el proyecto.
 
-  - MicroControlador_EEG: En desarrollo (Versión preeliminar en Alpha).
+  - MicroControlador_EEG: En desarrollo (Versión preeliminar en Alpha) DESCARTADO.
 
   - Trazado: En esta carpeta se encontrará el trazado empleado para la fabricación manual de las PCBs.
 
@@ -44,17 +39,20 @@ Diseño de Hardware Finalizado y presente en el repositorio.
     - MacroLib , Prof. Maximiliano Andrés Barzola.
     - Logo R , huellas y logos creados por el director de este repositorio.
 
-- 3D: Archivos correspondientes a los diseños 3D del proyecto (Diseño de prótesis y soportes de PCBs).
+- 3D: Archivos correspondientes a los diseños 3D del proyecto (Soportes de PCBs).
+- Informe: Informe detallado del proyecto, principios de funcionamiento, desarollo y conclusiones obtenidas, Archivo Diagrama de Gantt.
+- Manual de Usuario.
+- Funcionamiento: Fotos y videos de los resultados prácticos obtenidos. 
 
 
 # Última Actualización
 
-- Actualización fuente del proyecto. Lógica de fuente partida.
-- Optimización y corrección de dimensiones en el amplificador.
-- Agregado de sistema "Driven Right Leg" (DRL) incluída en el amplificador.
-- Carpeta "Simulación".
+- Conclusión escolar del proyecto (20 de Nov de 2025).
+- Informe final del proyecto.
+- Manual de ususario.
+- Resultados de funcionamiento.
 
-Cámbios observables en rama "main" y "Alpha".
+Cámbios observables en rama "main".
 
 
-v3.0 - 19 Agosto 2025
+v4.0 - 29 Noviembre 2025
